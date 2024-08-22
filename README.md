@@ -1,7 +1,7 @@
 # tenshi-patch-fix
 天使纷扰 | 天使骚骚 | 天使☆嚣嚣 RE-BOOT! 去私货汉化补丁
   
-![鲲-1723972704462-attentionpng](https://image.kungal.com/topic/user_2/鲲-1723972703831.webp "鲲-1723972704462-attentionpng")
+![](/attention.png)
 
 今天玩 `天使騒々 RE-BOOT!` 花了好大劲，原因是这个作品的补丁太糟糕了
 
