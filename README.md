@@ -26,8 +26,11 @@
 
 <https://t.me/KUNGalgameChannel/12>
 
-&#x20;&#x20;
+或者
 
+https://github.com/KUN1007/tenshi-patch-fix/releases/tag/tenshi
+
+  
 把这两个补丁都解压安装放在游戏目录下，即可玩到 **算是可以玩的** 天使騒々了，有兴趣的朋友们可以玩一下
 
 &#x20;&#x20;
